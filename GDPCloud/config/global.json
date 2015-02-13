@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Beg No More": {
+            "applicationId": "lo32BYbVAyu4woj8RxoNBY2OH6qcc5xqTzCPIukV", 
+            "masterKey": "NGpn3mLn0xBqratcHC3sEaMux779NQohJxwVPj1E"
+        }, 
+        "_default": {
+            "link": "Beg No More"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.12"
+    }
+}

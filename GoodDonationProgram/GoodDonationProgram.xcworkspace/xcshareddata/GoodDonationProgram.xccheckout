@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A43B9D73-4764-4B5E-ADE2-2EB9D02DBF6F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GoodDonationProgram</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>505610BB-4A63-4D86-B70E-267B0BB0F16A</key>
+		<string>https://github.com/Gooddonation/GDP.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GoodDonationProgram/GoodDonationProgram.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0B2F5FDE-BB15-4077-A9D2-D0B5757A46C6</key>
+		<string>../Externals/DTCoreText</string>
+		<key>505610BB-4A63-4D86-B70E-267B0BB0F16A</key>
+		<string>../..</string>
+		<key>53CD8DC1-1104-491F-9FC3-251DBF881C53</key>
+		<string>../Externals/DTCoreText/Externals/DTFoundation</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Gooddonation/GDP.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>505610BB-4A63-4D86-B70E-267B0BB0F16A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0B2F5FDE-BB15-4077-A9D2-D0B5757A46C6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DTCoreText</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>53CD8DC1-1104-491F-9FC3-251DBF881C53</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DTFoundation</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>505610BB-4A63-4D86-B70E-267B0BB0F16A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GDP</string>
+		</dict>
+	</array>
+</dict>
+</plist>
